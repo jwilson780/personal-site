@@ -1,0 +1,25 @@
+{
+  "name": "personal-website",
+  "version": "1.0.0",
+  "description": "Personal Website built with node and react",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jwilson780/personal-site.git"
+  },
+  "author": "Jacob Wilson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jwilson780/personal-site/issues"
+  },
+  "homepage": "https://github.com/jwilson780/personal-site#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "nodemon": "^1.17.5",
+    "react": "^16.4.1"
+  }
+}
